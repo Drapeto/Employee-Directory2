@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine,Lato');
+
+.header {
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px rgb(226, 193, 193);
+  font-weight: bolder;
+  padding: 30px 10px;
+  color: #ffffff;
+  background-color: rgb(90, 34, 230);
+  text-align: center;
+  border-bottom: 10px solid #130838;
+  margin-bottom: 10px;
+  width: 100%;
+}
