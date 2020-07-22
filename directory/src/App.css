@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Tangerine,Lato');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 
 .header {
   font-family: 'Tangerine', serif;
@@ -12,4 +12,18 @@
   border-bottom: 10px solid #130838;
   margin-bottom: 10px;
   width: 100%;
+}
+
+.table .col {
+  cursor: pointer;
+}
+
+.table .col .pointer:after {
+  font-size: 80%;
+  content: "";
+  margin-right: 18px;
+}
+.data-area {
+  font-family: 'Tangerine', serif;
+  margin: 0 auto;
 }
